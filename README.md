@@ -1,5 +1,5 @@
-## Indian_Youtube_videos_Analysis
- In this Project Indian youtub channels and video categories are examine.
+## Indian_Youtube_video_Analysis
+ In this Project Indian youtube channels and video categories are examine.
   Python Libraries are used for Analysis and visual represantation. 
 ## STEPS
 - Imported all require Libraries like pandas, numpy, seaborn, matplotlib.
